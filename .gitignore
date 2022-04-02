@@ -1,0 +1,9 @@
+.o
+.lib
+.so
+.dll
+.exe
+a.out
+
+.vscode
+scrypt.sh
